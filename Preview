@@ -57,6 +57,28 @@ tracert url
 powercfg /energy -a
 
 
+shutdown -h , -r -o, -s -t 0, -r -t -, -h now
+, p 
+/hybrid
+
+sfc scannow
+tasklist , -svc,, -v, -m
+
+taskkill pid "id" , im 
+
+date /t
+time /t
+
+vol
+
+ver
+
+type "text0 " >something.txt
+
+ren rename the file
+
+notepad
+
 
 
 
